@@ -43,6 +43,6 @@ Execute the above from the root folder of the project
 
 ### Additional Resources
 
-[Some guidelines for MiniPay dApps](https://docs.celo.org/developer/build-on-minipay/code-library)
-[MiniPay Code Library](https://docs.celo.org/developer/build-on-minipay/code-library)
-[Integration with popular web3 Libraries](https://docs.celo.org/developer/build-on-minipay/code-library)
+-   [Some guidelines for MiniPay dApps](https://docs.celo.org/developer/build-on-minipay/code-library)
+-   [MiniPay Code Library](https://docs.celo.org/developer/build-on-minipay/code-library)
+-   [Integration with popular web3 Libraries](https://docs.celo.org/developer/build-on-minipay/code-library)
