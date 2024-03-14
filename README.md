@@ -16,7 +16,7 @@ npx @celo/celo-composer create --template minipay
 ```
 
 > [!NOTE]  
-> If you are not using Celo Composer it is recommended to use Viem as your web3 libraries when building MiniPay dApp
+> If you are not using Celo Composer it is recommended to use Viem as your web3 library when building MiniPay dApp
 
 ### Install Dependencies
 
