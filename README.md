@@ -39,7 +39,7 @@ Execute the above from the root folder of the project
 
 ## [Setting up Ngrok](https://docs.celo.org/developer/build-on-minipay/prerequisites/ngrok-setup)
 
-## [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/prerequisites/ngrok-setup)
+## [Test dApp using Site Tester](https://docs.celo.org/developer/build-on-minipay/overview#test-your-dapp-inside-minipay)
 
 ### Additional Resources
 
