@@ -31,6 +31,7 @@ export default function Home() {
             setSigningLoading(true);
             try {
                 const tx = await sendCUSD(address, "0.1");
+                console.log(tx);
                 setTx(tx);
             } catch (error) {
                 console.log(error);
@@ -78,11 +79,12 @@ export default function Home() {
                     </div>
                     {tx && (
                         <p className="font-bold mt-4">
-                            Tx Completed: {(tx.hash as string).substring(0, 6)}
+                            Tx Completed:{" "}
+                            {(tx.transactionHash as string).substring(0, 6)}
                             ...
-                            {(tx.hash as string).substring(
-                                tx.hash.length - 6,
-                                tx.hash.length
+                            {(tx.transactionHash as string).substring(
+                                tx.transactionHash.length - 6,
+                                tx.transactionHash.length
                             )}
                         </p>
                     )}

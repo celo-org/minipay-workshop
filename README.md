@@ -1,4 +1,4 @@
-# ETHGlobal MiniPay Workshop
+# MiniPay Workshop
 
 Setup a MiniPay project in less than 15 minutes!
 
