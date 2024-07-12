@@ -4,15 +4,25 @@ Setup a MiniPay project in less than 15 minutes!
 
 ## Prerequisites
 
-1. node > 18
+1. node > 20
 2. yarn
 
 ## Setting up the project
 
+### Install the Latest Celo Composer CLI tool
+
+```bash
+npm i -g @celo/celo-composer@latest
+```
+
+```bash
+yarn global add @celo/celo-composer@latest
+```
+
 ### Initialize project using Celo Composer MiniPay template
 
 ```bash
-npx @celo/celo-composer create --template minipay
+npx @celo/celo-composer create
 ```
 
 > [!NOTE]  
@@ -46,6 +56,6 @@ Execute the above from the root folder of the project
 
 ### Additional Resources
 
--   [Some guidelines for MiniPay dApps](https://docs.celo.org/developer/build-on-minipay/overview#important-notes)
--   [MiniPay Code Library](https://docs.celo.org/developer/build-on-minipay/code-library)
--   [Integration with popular web3 Libraries](https://docs.celo.org/developer/build-on-minipay/overview#4-viem)
+- [Some guidelines for MiniPay dApps](https://docs.celo.org/developer/build-on-minipay/overview#important-notes)
+- [MiniPay Code Library](https://docs.celo.org/developer/build-on-minipay/code-library)
+- [Integration with popular web3 Libraries](https://docs.celo.org/developer/build-on-minipay/overview#4-viem)
