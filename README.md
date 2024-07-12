@@ -5,24 +5,14 @@ Setup a MiniPay project in less than 15 minutes!
 ## Prerequisites
 
 1. node > 20
-2. yarn
+2. yarn/npm
 
 ## Setting up the project
-
-### Install the Latest Celo Composer CLI tool
-
-```bash
-npm i -g @celo/celo-composer@latest
-```
-
-```bash
-yarn global add @celo/celo-composer@latest
-```
 
 ### Initialize project using Celo Composer MiniPay template
 
 ```bash
-npx @celo/celo-composer create
+npx @celo/celo-composer@latest create
 ```
 
 > [!NOTE]  
