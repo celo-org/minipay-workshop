@@ -44,9 +44,7 @@ yarn run react-app:dev
 
 Execute the above from the root folder of the project
 
-## [Setup Android Studio](https://docs.celo.org/developer/build-on-minipay/prerequisites/android-studio-setup)
-
-## [Install MiniPay app on the Emulator](https://docs.celo.org/developer/build-on-minipay/overview#installing-minipay)
+## [Install MiniPay app](https://docs.celo.org/developer/build-on-minipay/overview#installing-minipay)
 
 ## [Enable Developer Mode on MiniPay](https://docs.celo.org/developer/build-on-minipay/enabling-testnet)
 
